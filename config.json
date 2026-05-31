@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydtringify",
+        "uuid": 23930505,
+        "checksum": "jstjx9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
